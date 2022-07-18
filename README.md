@@ -17,5 +17,5 @@
   <img align="center" alt="Nauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nauan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="\Nauan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Nauan-pic" height="150" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/tgin9duG0VNJpDNKSxzLYM9a5_LZByewpK74VanOUm4/https/media.tenor.com/XXWC7M9Bl-EAAAPo/devil-anime.mp4">
+  
 </div>
