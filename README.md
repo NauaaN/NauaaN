@@ -1,7 +1,6 @@
 ### Opa... 🐬
 
 - 🏂 Programador em aprendizado
-- 🎌 Pronomes: Ele/Dele
 - 🦖 Sou gente boa<3
 
 <div align="center">
